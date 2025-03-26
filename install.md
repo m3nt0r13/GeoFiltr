@@ -25,4 +25,6 @@ bash
 python3 app.py
 
 
-Open http://<YOUR_PI_IP>:5000 in your browser.
+Open 
+
+http://<YOUR_PI_IP>:5000 in your browser.
