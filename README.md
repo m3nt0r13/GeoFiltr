@@ -2,9 +2,9 @@
 
 Overview
 
-The GeoFilter script is a Python (Flask) application designed to monitor and block network traffic based on the geolocation of IP addresses. It runs on a Raspberry Pi (or other Linux-based devices), where:
+The GeoFilter script is a Python (Flask) application designed to monitor and block network traffic based on the geolocation of IP addresses. It runs on a Raspberry Pi (or other Linux-based devices).
 
-IP Collection
+
 
 The script launches a mechanism (such as tcpdump or conntrack) to capture network connections to/from hosts.
 
